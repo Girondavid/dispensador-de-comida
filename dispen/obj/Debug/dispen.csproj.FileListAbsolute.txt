@@ -1,0 +1,10 @@
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\bin\Debug\dispen.exe.config
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\bin\Debug\dispen.exe
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\bin\Debug\dispen.pdb
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\obj\Debug\dispen.csprojAssemblyReference.cache
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\obj\Debug\dispen.Form1.resources
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\obj\Debug\dispen.Properties.Resources.resources
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\obj\Debug\dispen.csproj.GenerateResource.cache
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\obj\Debug\dispen.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\obj\Debug\dispen.exe
+C:\Users\DANIEL\Desktop\proyect dispens\dispen\obj\Debug\dispen.pdb
